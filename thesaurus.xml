@@ -1049,5 +1049,41 @@
             <sub>Wyoming</sub>
             <sub>WY</sub>
         </expansion>
+        <expansion>
+            <sub>N</sub>
+            <sub>NORTH</sub>
+        </expansion>
+        <expansion>
+            <sub>NE</sub>
+            <sub>NORTHEAST</sub>
+            <sub>NORTH EAST</sub>
+        </expansion>
+        <expansion>
+            <sub>NW</sub>
+            <sub>NORTHWEST</sub>
+            <sub>NORTH WEST</sub>
+        </expansion>
+        <expansion>
+            <sub>S</sub>
+            <sub>SOUTH</sub>
+        </expansion>
+        <expansion>
+            <sub>SE</sub>
+            <sub>SOUTHEAST</sub>
+            <sub>SOUTH EAST</sub>
+        </expansion>
+        <expansion>
+            <sub>SW</sub>
+            <sub>SOUTHWEST</sub>
+            <sub>SOUTH WEST</sub>
+        </expansion>
+        <expansion>
+            <sub>E</sub>
+            <sub>EAST</sub>
+        </expansion>
+        <expansion>
+            <sub>W</sub>
+            <sub>WEST</sub>
+        </expansion>
     </thesaurus>
-</XML>  
+</XML>
